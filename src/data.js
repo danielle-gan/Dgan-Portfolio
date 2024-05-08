@@ -11,7 +11,7 @@ export const projects = [
     title: "Petinder",
     subtitle: "Javascript and API",
     description:
-      "A web app that connects to the Petfinder API and lets users swipe left or right on pets in their area. These pets are saved to another tab so users can come back and view the pets they previously looked at.",
+      "A web app that connects to the Petfinder API and after filling out a form that asks the user for some imput, it allows the users to like or dislike pets in their area. These pets are saved to another tab so users can come back and view the pets they previously looked at.",
     image: "./Petinder.png",
     link: "https://danielle-gan.github.io/petinder/index.html",
   },
