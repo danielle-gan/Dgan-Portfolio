@@ -45,7 +45,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                74 Newington Rd.<br />
+                123 Wallaby Way<br />
                 West Hartford, CT 06110
               </p>
             </div>

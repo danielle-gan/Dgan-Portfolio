@@ -3,17 +3,17 @@ export const projects = [
     title: "Equipment Scheduler",
     subtitle: "XML and JavaScript",
     description:
-      "A simple web application that serves as a basic drag-and-drop equipment scheduler. It allows users to schedule equipment usage by dragging and dropping items onto a grid. The grid represents days and machines, and users can easily visualize and manage equipment scheduling.",
-    image: "./project-1.gif",
+      "A simple web app that serves as a basic drag-and-drop equipment scheduler. Users can schedule equipment usage by dragging and dropping items onto a grid. The grid represents days and machines, and users can easily visualize and manage equipment scheduling.",
+    image: "./equip-sched.jpg",
     link: "https://danielle-gan.github.io/Equipment-Scheduler/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Petinder",
+    subtitle: "Javascript and API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A web app that connects to the Petfinder API and lets users swipe left or right on pets in their area. These pets are saved to another tab so users can come back and view the pets they previously looked at.",
+    image: "./Petinder.png",
+    link: "https://danielle-gan.github.io/petinder/index.html",
   },
   {
     title: "DevChat",
