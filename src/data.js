@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Equipment Scheduler",
+    subtitle: "XML and JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple web application that serves as a basic drag-and-drop equipment scheduler. It allows users to schedule equipment usage by dragging and dropping items onto a grid. The grid represents days and machines, and users can easily visualize and manage equipment scheduling.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://danielle-gan.github.io/Equipment-Scheduler/",
   },
   {
     title: "React Tracks",
