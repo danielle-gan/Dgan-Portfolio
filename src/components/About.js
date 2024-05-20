@@ -7,13 +7,11 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Dani.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" />I love to build cool
+            apps that solve problems!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          I'm an tech enthusiast who thrives on helping people and increasing workplace efficiency. Whether it's a tricky bug or a performance hiccup, I'm always up for the challenge! When I'm not diving into code and ensuring everything's shipshape, you can find me indulging in my many hobbies – from rock climbing to playing co-op video games. Life's an adventure, and I'm here to enjoy every byte of it!
           </p>
           <div className="flex justify-center">
             <a
@@ -32,7 +30,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./avatar.png"
           />
         </div>
       </div>
