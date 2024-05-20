@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Working with Dani has been an absolute delight. Her positive attitude and genuine kindness make every project a pleasure. Dani is not only skilled and knowledgeable but also incredibly approachable. They always take the time to listen and ensure that everyone feels heard and valued. Her supportive nature and willingness to go the extra mile have made a significant impact on our team's morale and productivity. She truly stands out as someone who makes the workplace better simply by being there.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
-    company: "Zoozle",
+    company: "ABC Company",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Beyond their technical expertise, what really sets Dani apart is their ability to make everyone feel important. They take the time to understand individual needs and provide thoughtful, personalized support. It's clear that Dani genuinely cares about the well-being and success of their coworkers, making them an invaluable part of any team.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
-    company: "Dooble.io",
+    company: "ZYX Company",
   },
 ];
 
