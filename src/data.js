@@ -43,7 +43,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Beyond their technical expertise, what really sets Dani apart is their ability to make everyone feel important. They take the time to understand individual needs and provide thoughtful, personalized support. It's clear that Dani genuinely cares about the well-being and success of their coworkers, making them an invaluable part of any team.",
+      "Beyond her technical expertise, what really sets Dani apart is her ability to make everyone feel important. She takes the time to understand individual needs and provide thoughtful, personalized support. It's clear that Dani genuinely cares about the well-being and success of her coworkers, making her an invaluable part of any team.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "ZYX Company",
